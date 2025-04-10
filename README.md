@@ -11,7 +11,7 @@ QueryZone is a Quora-inspired platform built with Django where users can:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/queryzone.git
+git clone https://github.com/sunny1914/queryzone.git
 cd queryzone
 
 2. Create and activate a virtual environment:
